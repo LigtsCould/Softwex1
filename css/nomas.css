@@ -336,7 +336,7 @@ footer{
 
     0%{
 
-        background-image: url(/img/2.jpg);
+        background-image: url(img/2.jpg);
         background-size: cover;
         background-repeat: no-repeat;
 
@@ -344,14 +344,14 @@ footer{
 
     50%{
 
-        background-image: url(/img/1.jpg);
+        background-image: url(img/1.jpg);
         background-size: cover;
         background-repeat: no-repeat;
 
     }
     100%{
 
-        background-image: url(/img/2.jpg);
+        background-image: url(img/2.jpg);
         background-size: cover;
         background-repeat: no-repeat;
 
