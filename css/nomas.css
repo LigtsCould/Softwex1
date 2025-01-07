@@ -230,7 +230,7 @@ nav{
 .section_imagen{
 
     width: 37%;
-    background-image: url(/img/1.jpg);
+    background-image: url(img/1.jpg);
     background-repeat: no-repeat;
     margin-left: 2%;
     animation: change-imagen 6s infinite;
