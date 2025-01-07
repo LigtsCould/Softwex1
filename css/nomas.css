@@ -230,7 +230,7 @@ nav{
 .section_imagen{
 
     width: 37%;
-    background-image: url(1.jpg);
+    background-image: url(img/1.jpg);
     background-repeat: no-repeat;
     margin-left: 2%;
     animation: change-imagen 6s infinite;
@@ -336,7 +336,7 @@ footer{
 
     0%{
 
-        background-image: url(2.jpg);
+        background-image: url(img/2.jpg);
         background-size: cover;
         background-repeat: no-repeat;
 
@@ -344,14 +344,14 @@ footer{
 
     50%{
 
-        background-image: url(1.jpg);
+        background-image: url(img/1.jpg);
         background-size: cover;
         background-repeat: no-repeat;
 
     }
     100%{
 
-        background-image: url(2.jpg);
+        background-image: url(img/2.jpg);
         background-size: cover;
         background-repeat: no-repeat;
 
